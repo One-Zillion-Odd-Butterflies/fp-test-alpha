@@ -6,3 +6,4 @@ Sandbox repo for Footprints GitHub App integration tests. Not shipped.
 # PR smoke 2026-04-21T23:32:44Z
 # smoke 2026-04-21T23:38:25Z
 # PR smoke 2026-04-21T23:39:21Z
+# PR smoke 2026-04-28T00:00:00Z via PAT mode
